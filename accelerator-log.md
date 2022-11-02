@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "harbor.asimfed.com/tap/build-service"
+  "repositoryPrefix" : "harbor.asimfed.com/tap"
 }
 ```
 ## Log
